@@ -2,7 +2,7 @@
 
 Hi, I'm Rohit Singh, a Web Developer, Problem Solving Enthusiast and Open Source Developer🚀 from India. <br> <br> 
 [![Linkedin Badge](https://img.shields.io/badge/-RohitSingh2610-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/RohitSingh2610)](https://www.linkedin.com/in/RohitSingh2610)
-[![Twitter Badge](https://img.shields.io/badge/-@RohitSingh2109-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/RohitSingh2109)](https://twitter.com/RohitSingh2109) 
+[![Twitter Badge](https://img.shields.io/badge/-@RohitSingh2109-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/RohitSingh26109)](https://twitter.com/RohitSingh26109) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rohitsingh.mwc@gmail.com)](mailto:rohitsingh.mwc@gmail.com)
 <br />
 
